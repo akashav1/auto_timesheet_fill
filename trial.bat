@@ -1,1 +1,1 @@
-start cmd.exe /K git add . ^&^& git commit -am "commentb" ^&^& git push ^&^& exit
+start cmd.exe /K git add . ^&^& git commit -am "hours updated" ^&^& git push ^&^& exit
