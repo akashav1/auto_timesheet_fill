@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/akasykmo/public_html/web_page_fill
+    - /bin/cp -R images $DEPLOYPATH
